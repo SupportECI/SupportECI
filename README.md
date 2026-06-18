@@ -14,7 +14,7 @@ Somos una institución dedicada a abrir puertas al mundo a través del aprendiza
 En nuestro equipo de desarrollo e innovación utilizamos tecnologías modernas para crear las mejores experiencias educativas:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,wordpress,php,git,github,figma,cogno" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,wordpress,php,git,github,figma,drive" />
 </p>
 
 ---
