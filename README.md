@@ -19,15 +19,6 @@ En nuestro equipo de desarrollo e innovación utilizamos tecnologías modernas p
 
 ---
 
-## 📊 Actividad en GitHub de la Institución
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupportECI&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupportECI&layout=compact&theme=dracula" alt="Lenguajes más usados" width="40%" />
-</p>
-
----
-
 ## 📬 Ponte en contacto con nosotros
 ¿Te interesa colaborar, conocer nuestros cursos o saber más sobre nuestros desarrollos? ¡Escríbenos!
 
