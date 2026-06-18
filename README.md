@@ -20,11 +20,10 @@ En nuestro equipo de desarrollo e innovación utilizamos tecnologías modernas p
 ---
 
 ## 📊 Actividad en GitHub de la Institución
-*(Recuerda cambiar `TU_USUARIO` por el nombre de usuario exacto de la cuenta de GitHub de la empresa)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula" alt="Lenguajes más usados" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SupportECI&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupportECI&layout=compact&theme=dracula" alt="Lenguajes más usados" width="40%" />
 </p>
 
 ---
